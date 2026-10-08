@@ -1,0 +1,14 @@
+{
+  "client_id": "https://blueberrygamestudio.github.io/AITrading-CIMD/oauth/client-metadata.json",
+  "client_name": "AITrading Local Agent",
+  "redirect_uris": [
+    "http://localhost:3030/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
